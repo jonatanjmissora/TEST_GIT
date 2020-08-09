@@ -10,7 +10,11 @@ VS CODE:
 
 tener el codigo en el working, ya con un commit
 ir a github y crear el repositorio
-luego en ... poner push, y me pide la url del repo en github
+luego en ... poner push, y me pide la url dell repo en github y un nombre(no se para que)
+eso crea el enlace con github
+luego a la nuve con flechita abajo izq, o en los ... poner push otra vez.
+ya esta subido a github
+
 
 
 
